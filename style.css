@@ -1,0 +1,35 @@
+#nameControl {
+    display: flex;
+    padding: 10px;
+}
+
+#nameInput {
+    margin-left: 10px;
+}
+
+.stateEach {
+    display: flex;
+    font-size: 15px;
+    padding: 6px;
+    line-height: 20px;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.stateName {
+    width: 25%;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.stateActive {
+    width: 25%;
+}
+
+.stateConfirmed {
+    width: 25%;
+}
+
+.stateDeaths {
+    width: 25%;
+}
